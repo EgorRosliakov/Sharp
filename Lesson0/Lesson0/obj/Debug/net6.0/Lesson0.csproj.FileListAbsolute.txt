@@ -12,3 +12,17 @@ C:\Users\Yehor\Desktop\Lesson0\Lesson0\obj\Debug\net6.0\refint\Lesson0.dll
 C:\Users\Yehor\Desktop\Lesson0\Lesson0\obj\Debug\net6.0\Lesson0.pdb
 C:\Users\Yehor\Desktop\Lesson0\Lesson0\obj\Debug\net6.0\Lesson0.genruntimeconfig.cache
 C:\Users\Yehor\Desktop\Lesson0\Lesson0\obj\Debug\net6.0\ref\Lesson0.dll
+C:\Users\Yehor\Desktop\Sharp\Lesson0\Lesson0\bin\Debug\net6.0\Lesson0.exe
+C:\Users\Yehor\Desktop\Sharp\Lesson0\Lesson0\bin\Debug\net6.0\Lesson0.deps.json
+C:\Users\Yehor\Desktop\Sharp\Lesson0\Lesson0\bin\Debug\net6.0\Lesson0.runtimeconfig.json
+C:\Users\Yehor\Desktop\Sharp\Lesson0\Lesson0\bin\Debug\net6.0\Lesson0.dll
+C:\Users\Yehor\Desktop\Sharp\Lesson0\Lesson0\bin\Debug\net6.0\Lesson0.pdb
+C:\Users\Yehor\Desktop\Sharp\Lesson0\Lesson0\obj\Debug\net6.0\Lesson0.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yehor\Desktop\Sharp\Lesson0\Lesson0\obj\Debug\net6.0\Lesson0.AssemblyInfoInputs.cache
+C:\Users\Yehor\Desktop\Sharp\Lesson0\Lesson0\obj\Debug\net6.0\Lesson0.AssemblyInfo.cs
+C:\Users\Yehor\Desktop\Sharp\Lesson0\Lesson0\obj\Debug\net6.0\Lesson0.csproj.CoreCompileInputs.cache
+C:\Users\Yehor\Desktop\Sharp\Lesson0\Lesson0\obj\Debug\net6.0\Lesson0.dll
+C:\Users\Yehor\Desktop\Sharp\Lesson0\Lesson0\obj\Debug\net6.0\refint\Lesson0.dll
+C:\Users\Yehor\Desktop\Sharp\Lesson0\Lesson0\obj\Debug\net6.0\Lesson0.pdb
+C:\Users\Yehor\Desktop\Sharp\Lesson0\Lesson0\obj\Debug\net6.0\Lesson0.genruntimeconfig.cache
+C:\Users\Yehor\Desktop\Sharp\Lesson0\Lesson0\obj\Debug\net6.0\ref\Lesson0.dll

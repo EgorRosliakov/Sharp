@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Yehor\\Desktop\\Lesson0\\Lesson0\\Lesson0.csproj": {}
+    "C:\\Users\\Yehor\\Desktop\\Sharp\\Lesson0\\Lesson0\\Lesson0.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Yehor\\Desktop\\Lesson0\\Lesson0\\Lesson0.csproj": {
+    "C:\\Users\\Yehor\\Desktop\\Sharp\\Lesson0\\Lesson0\\Lesson0.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Yehor\\Desktop\\Lesson0\\Lesson0\\Lesson0.csproj",
+        "projectUniqueName": "C:\\Users\\Yehor\\Desktop\\Sharp\\Lesson0\\Lesson0\\Lesson0.csproj",
         "projectName": "Lesson0",
-        "projectPath": "C:\\Users\\Yehor\\Desktop\\Lesson0\\Lesson0\\Lesson0.csproj",
+        "projectPath": "C:\\Users\\Yehor\\Desktop\\Sharp\\Lesson0\\Lesson0\\Lesson0.csproj",
         "packagesPath": "C:\\Users\\Yehor\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Yehor\\Desktop\\Lesson0\\Lesson0\\obj\\",
+        "outputPath": "C:\\Users\\Yehor\\Desktop\\Sharp\\Lesson0\\Lesson0\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Yehor\\AppData\\Roaming\\NuGet\\NuGet.Config",
